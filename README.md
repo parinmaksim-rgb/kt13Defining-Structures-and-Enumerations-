@@ -11,4 +11,4 @@
 Результаты и проверочные ключи
 <img width="1540" height="292" alt="image" src="https://github.com/user-attachments/assets/f12336e3-71dc-4a51-81a1-80e84b1bc2cb" />
 
-<img width="1540" height="292" alt="image" src="https://github.com/user-attachments/assets/2b428667-1b72-4e1a-8c25-7b129bbddd99" />
+<img width="694" height="1275" alt="image" src="https://github.com/user-attachments/assets/a13767e2-df8f-47bd-bbcc-88196d30bcde" />
